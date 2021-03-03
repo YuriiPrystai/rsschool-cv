@@ -1,0 +1,85 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: rgb(7, 90, 90);
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6rem;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.section {
+  width: 80%;
+  margin: auto;
+  border-radius: 2rem;
+  transition: all 0.5s;
+}
+
+.section:hover {
+  background-color: rgb(228, 228, 228);
+}
+
+.padding-xy1 {
+  padding: 1rem 1rem;
+}
+
+.padding-y1 {
+  padding: 1rem 0;
+}
+
+.padding-y2 {
+  padding: 2rem 0;
+}
+
+.padding-x2 {
+  padding: 0 2rem;
+}
+
+.margin-left-x2 {
+  margin-left: 2rem;
+}
+
+.text-primary {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.text-secondary {
+  font-size: 1.2rem;
+}
+
+.header-text {
+  text-align: center;
+}
+
+/* Contact */
+.contact-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact-info a {
+  text-decoration: none;
+}
+
+.photo {
+  max-width: 200px;
+  border-radius: 50%;
+}
+
+.about-me {
+  text-align: center;
+  width: 70%;
+  padding-top: 2rem;
+  margin: auto;
+}
+
+/* Skills */
+.skills-header {
+  font-size: 1.5rem;
+}
