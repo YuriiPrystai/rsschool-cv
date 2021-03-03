@@ -35,8 +35,8 @@ Link to a publication in Springer:
 
 ### Education
 - School (2005-2016)
-- National university Lviv Polytechnic , Institute of Computer Science and Information Technology, , Department of Information Systems and Networks (2016-2020). 
-- Ivano frankivsk national university of oil and gas ( magistracy 2020-). Currently a 5th year student.
+- National University Lviv Polytechnic , Institute of Computer Science and Information Technology, , Department of Information Systems and Networks (2016-2020). 
+- Ivano-Frankivsk National University of oil and gas ( magistracy 2020-). Currently a 5th year student.
 
 ### Languages
 - Ukrainian is the native language
