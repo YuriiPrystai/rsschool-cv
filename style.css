@@ -12,6 +12,14 @@
   margin: auto;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 .section {
   width: 80%;
   margin: auto;
@@ -63,10 +71,6 @@
   justify-content: space-between;
 }
 
-.contact-info a {
-  text-decoration: none;
-}
-
 .photo {
   max-width: 200px;
   border-radius: 50%;
@@ -82,4 +86,19 @@
 /* Skills */
 .skills-header {
   font-size: 1.5rem;
+}
+
+/* Footer */
+.footer > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.rsschool-logo {
+  width: 80px;
+}
+
+.text-footer {
+  text-align: center;
 }
