@@ -1,1 +1,1 @@
-https://YuriiPrystai.github.io/rsschool-cv/cv
+### https://YuriiPrystai.github.io/rsschool-cv/cv
